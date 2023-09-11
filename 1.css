@@ -1,0 +1,102 @@
+#id2{
+    opacity: 0.7;
+}
+		#a{
+			height: 80%;
+			width: 100%;
+		}
+		#id4{
+			background-color: blueviolet;
+			height: 10%;
+			width: 30%;
+			color: white;
+		}
+		#id5{
+			color: blueviolet;
+			border: 1px solid blueviolet;
+			height: 10%;
+			width: 30%;
+		}
+		#id6{
+			color: blueviolet;
+			font-size: 200%;
+			margin-left: 350%;
+		}
+		#id7{
+			color: blueviolet;
+			font-size: 200%;
+			margin-left: 250%;
+		}
+		#id8{
+			color: blueviolet;
+			font-size: 200%;
+			margin-left: 200%;
+		}
+		#id9{
+			height: 100%;
+			width: 100%;
+			border-radius: 20%;
+		}
+		#id10{
+			margin-left: 2%;
+		}
+		#id11{
+			background-color: blueviolet;
+			height: 12%;
+			width: 20%;
+			color: white;
+		}
+		#id12{
+			color: blueviolet;
+			border: 1px solid blueviolet;
+			height: 12%;
+			width: 20%;
+		}
+		#b{
+			width: 100%;
+			border: 2px solid black;
+		}
+		.c{
+			background-color: blueviolet;
+		}
+		#id14{
+			color: blueviolet;
+			font-size: 300%;
+			margin-left: 150%;
+		}
+		#id15{
+			width: 30%;
+			margin-right: 5%;
+			border-radius: 5px;
+			height: 15%;
+		}
+		#id16{
+			border: 1px solid white;
+			border-radius: 5px;
+			height: 15%;
+			margin-left: 5%;
+			width: 20%;
+		}
+		#id17{
+			height: 100%;
+			width: 100%;
+			border-radius: 5%;
+		}
+		#id18{
+			border: none;
+		}
+		#id19{
+			height: 100%;
+			width: 100%;
+			position: absolute;
+		}
+		#id20{
+			position: relative;
+		}
+		#l{
+			height:70%;
+			width: 70%;
+		}
+		.h{
+			height: 250px;
+		}
